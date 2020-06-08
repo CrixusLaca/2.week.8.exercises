@@ -1,0 +1,36 @@
+.container1 {
+    width: 350px;
+    height: auto;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue;
+    padding: 10px;
+
+}
+.boxblue {
+    width: 25px;
+    height: 25px;
+    background-color: blue;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.container2 {
+    width: 350px;
+    height: auto;
+    background-color: #f7786b;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.boxpurple {
+    width: 25px;
+    height: 25px;
+    background-color: purple;
+    margin-left: 5px;
+    margin-right: 5px;
+}
